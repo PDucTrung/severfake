@@ -7,7 +7,25 @@
       "price": 3.29,
       "category": "Fruits",
       "weight": 700,
-      "description": "Red cabbage is a nutrient-rich, cruciferous, or Brassica vegetable that's related to cauliflower and kale. It's sometimes called purple cabbage since its leaves are a dark purple-reddish color. Red cabbage typically is a little smaller and denser than green cabbage, and has a more peppery taste."
+      "description": "Red cabbage is a nutrient-rich, cruciferous, or Brassica vegetable that's related to cauliflower and kale. It's sometimes called purple cabbage since its leaves are a dark purple-reddish color. Red cabbage typically is a little smaller and denser than green cabbage, and has a more peppery taste.",
+      "image": [
+        {
+          "id": "img-1",
+          "img-smail": "safasf"
+        },
+        {
+          "id": "img-2",
+          "img-smail": "dascxsf"
+        },
+        {
+          "id": "img-3",
+          "img-smail": "grfgfgf"
+        },
+        {
+          "id": "img-4",
+          "img-smail": "sgsdfdsf"
+        }
+      ]
     },
     {
       "id": 2,
@@ -418,4 +436,3 @@
     }
   ]
 }
-
