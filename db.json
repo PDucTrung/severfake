@@ -238,8 +238,6 @@
 
   "categories": ["Fruits", "Vegetables", "Exotic"],
 
-  "products/categories": ["Fruits", "Vegetables", "Exotic"],
-
   "todos": [
     {
       "userId": 1,
