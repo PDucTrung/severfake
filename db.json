@@ -286,60 +286,10 @@
       "userupblog": "Ann Smith",
       "timeupblog": "May 17, 2018",
       "imguser": "data:image/jpeg;base64,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"
-    }
-  ],
+    },
 
-  "producthome1": [
     {
-      "id": 1,
-      "img": "https://tfruit.vercel.app/assets/iproduct-3.2b6d3353.png",
-      "name": "Red cabbage",
-      "price": 3.25
-    },
-    {
-      "name": "Pea",
-      "img": "https://tfruit.vercel.app/assets/iproduct-4.d49bc115.png",
-      "price": 2.25,
-      "id": 2
-    },
-    {
-      "name": "Lettuce",
-      "img": "https://tfruit.vercel.app/assets/iproduct-5.0207bda4.png",
-      "price": 1.75,
-      "id": 3
-    },
-    {
-      "name": "Cucumber",
-      "img": "https://tfruit.vercel.app/assets/iproduct-6.3758588b.png",
-      "price": 2.0,
-      "id": 4
-    }
-  ],
-
-  "producthome2": [
-    {
-      "id": 1,
-      "img": "https://tfruit.vercel.app/assets/iproduct-8.6c06a93a.png",
-      "name": "Pepper",
-      "price": 3.25
-    },
-    {
-      "name": "Tomato",
-      "img": "https://tfruit.vercel.app/assets/iproduct-9.62fb88d8.png",
-      "price": 4.0,
-      "id": 2
-    },
-    {
-      "name": "Apple",
-      "img": "https://tfruit.vercel.app/assets/iproduct-10.b57663a8.png",
-      "price": 3.75,
-      "id": 3
-    },
-    {
-      "name": "Strawberry",
-      "img": "https://tfruit.vercel.app/assets/iproduct-6.3758588b.png",
-      "price": 3.99,
-      "id": 4
+      "categories": ["Fruits", "Vegetables", "Exotic"]
     }
   ],
 
