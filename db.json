@@ -41,17 +41,17 @@
         "os": "Windows 10 64-bit",
         "processor": "Intel i5-2500k (4 core 3.3 GHz) or AMD Ryzen 3 1200 (4 core 3.1 GHz)",
         "memory": "8 GB DDR",
-        "storage": "70 GB HDD (SSD Recommended)",
+        "graphics": "NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)",
         "direct": "DirectX 11 (feature level 11_1)",
-        "graphics": "NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)"
+        "storage": "70 GB HDD (SSD Recommended)"
       },
       "recommend_system": {
         "os": "Windows 10 64-bit",
         "processor": "Intel i5-6600k (4 core 3.5 GHz) or AMD Ryzen 5 2400 G (4 core 3.6 GHz)",
         "memory": "8 GB DDR",
-        "storage": "70 GB HDD",
+        "graphics": "NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)",
         "direct": "DirectX 11 (feature level 11_1)",
-        "graphics": "NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)"
+        "storage": "70 GB HDD"
       }
     }
   ],
