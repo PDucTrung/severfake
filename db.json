@@ -2,14 +2,14 @@
   "games": [
     {
       "id": 15,
+      "price": 1139000,
+      "sale": 40,
       "name": "God of War",
       "rate": "4.9",
       "genres": "Open world",
       "developer": "Santa Monica Studio",
       "publisher": "PlayStation PC LLC",
       "release_date": "01/14/22",
-      "price": 1139000,
-      "sale": 40,
       "img": "/img/game15/game.jpg",
       "img_header": "/img/game15/header.jpg",
       "system": "Window",
