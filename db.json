@@ -389,5 +389,398 @@
       "title": "ahahahaahhahh",
       "completed": true
     }
+  ],
+
+  "blog": [
+    {
+      "id": 1,
+      "name": "Simple Guidance For You In CyberPunk 2077",
+      "content": "Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill.",
+      "date": " January 7, 2022 ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704913/Endless%20Games/blog/blog-1_d6hlb6.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704912/Endless%20Games/blog/bg-blog-1_rk2sgq.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Final Fantasy XVI is said to be a more “mature” take on the fantasy RPG franchise",
+      "content": "Dominion deep fourth. Divide bearing Midst very god rule fill.",
+      "date": "  May 10, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704914/Endless%20Games/blog/blog-2_mzia4s.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704913/Endless%20Games/blog/bg-blog-2_t8uc9s.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Never Underestimate The Influence Of Gaming",
+      "content": "Likeness beast were have gathering you’re.",
+      "date": "  April 7, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704914/Endless%20Games/blog/blog-3_slzppp.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704912/Endless%20Games/blog/bg-blog-3_r2drov.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "GTA 5 on PS5 and Xbox Series: Everything you need to know about the next-gen version",
+      "content": "One bring to very us our. Darkness made i waters.",
+      "date": "  April 7, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704914/Endless%20Games/blog/blog-4_chn9nu.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704913/Endless%20Games/blog/bg-blog-4_cbhhfd.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "What It’s Like Gaming",
+      "content": "Seed you’ll were made two herb Day fifth give over dominion you.",
+      "date": "  April 7, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704914/Endless%20Games/blog/blog-5_xowbjl.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704913/Endless%20Games/blog/bg-blog-5_ewakeo.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "What Will Gaming Be Like In The Next 50 Years?",
+      "content": "So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. ",
+      "date": "  March 21, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704914/Endless%20Games/blog/blog-6_kvhnb7.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704913/Endless%20Games/blog/bg-blog-6_z0efrs.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "A new trailer for Stellar Blade, formerly known as Project Eve, is revealed",
+      "content": "Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill.",
+      "date": " SEPTEMBER 26, 2022 ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704914/Endless%20Games/blog/blog-7_bpcptv.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704913/Endless%20Games/blog/bg-blog-7_of8f1l.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Will Resident Evil 4 Remake come to Xbox One? A store says yes, but don’t get excited",
+      "content": "Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man.",
+      "date": "  SEPTEMBER 26, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/blog-8_httl8b.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704913/Endless%20Games/blog/bg-blog-8_qzp8vp.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Soul Hackers 2 brings its collector’s edition to the West",
+      "content": "Great stars creeping light which beast third earth good also living greater days air yielding given.",
+      "date": "  JUNE 10, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/blog-9_gtfrns.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704913/Endless%20Games/blog/bg-blog-9_gcbeve.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Half-Life: the story of a saga that is still not closed",
+      "content": "Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill.",
+      "date": "  APRIL 7, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704913/Endless%20Games/blog/blog-10_wyuj8q.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704912/Endless%20Games/blog/bg-blog-10_fvwarf.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Is Konami hiding MGSV chapter 3?",
+      "content": "Dominion deep fourth. Divide bearing Midst very god rule fill.",
+      "date": "  MARCH 7, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704913/Endless%20Games/blog/blog-11_el0zqr.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704912/Endless%20Games/blog/bg-blog-11_bvvyyp.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "The Five Secrets About Games Only A Handful Of People Know",
+      "content": "Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill.",
+      "date": "  FEBRUARY 7, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704914/Endless%20Games/blog/blog-12_icfsjm.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704912/Endless%20Games/blog/bg-blog-12_b2ahjg.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "NieR Replicant exceeds one million units sold",
+      "content": "Likeness beast were have gathering you're.",
+      "date": " FEBRUARY 6, 2022 ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704914/Endless%20Games/blog/blog-13_ofsn4r.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704912/Endless%20Games/blog/bg-blog-13_slkpnq.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Ten Lessons That Will Teach You All You Need To Know About Gaming",
+      "content": "Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill.",
+      "date": "  FEBRUARY 4, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704914/Endless%20Games/blog/blog-14_cs7ctb.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704912/Endless%20Games/blog/bg-blog-14_xxqxmw.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "How To Own Games For Free",
+      "content": "Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill.",
+      "date": "  JANUARY 5, 2022  ",
+      "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704914/Endless%20Games/blog/blog-15_o6ahvw.jpg",
+      "img_bg": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704912/Endless%20Games/blog/bg-blog-15_jbqqvs.jpg",
+      "user": {
+        "name": "Phil Johnson",
+        "img": "https://res.cloudinary.com/drijkcrst/image/upload/v1671704915/Endless%20Games/blog/user-1_d8dvit.jpg"
+      },
+      "text": {
+        "text1": "Likeness beast were have gathering you’re. Seed you’ll were made two herb Day fifth give over dominion you. So night were One whose fourth face replenish from upon doesn’t dry herb you’ll heaven the and great. Their was. Their face signs without midst beast void second. Brought creepeth creeping form days without. Face had. Earth us god to every also likeness that dominion after first give one moving open blessed them beast. Form. Spirit be image thing good called make and behold upon of herb also set above. Good shall place together sixth their morning which likeness. Fourth dry dominion to above day creeping was without creeping creepeth. Two firmament. Good. Fish created. Forth also place. Morning, days. Earth morning.",
+        "text2": "Blessed thing fowl him. Was can’t fruit winged night female, air moving moved made place two own seasons every created saw tree so called god void in heaven. Gathered multiply fish. Fruitful and. Fruitful land air. Waters divided. Us. Given sixth, place. Of you’ll blessed from sixth likeness stars. He cattle you’re The lesser beginning male i divided brought above. Isn’t. Beast without fourth.",
+        "text3": "The also said, second signs under doesn’t of. Rule, i stars. Male. First air, subdue fowl. Of you’ll image blessed their saw form can’t heaven him is whose. Years he firmament lesser hath lesser let two. Deep green man. Third herb void you’re gathering which let also rule. One you’re.",
+        "text4": "Living heaven itself them were. One bring to very us our. Darkness made i waters. Great stars creeping light which beast third earth good also living greater days air yielding given given Called a bring second that third said greater night let fruitful midst itself void you there air winged brought. Set spirit. Beginning. Created great. Dominion deep fourth. Divide bearing Midst very god rule fill."
+      },
+      "comments": [
+        {
+          "username": "Brielarson",
+          "avatar": "https://res.cloudinary.com/drijkcrst/image/upload/v1671706597/Endless%20Games/blog/defaultuser_sgps4r.jpg",
+          "content": "Man. Seasons let air fowl them make also that our set subdue their a open. Creepeth us together lights over saying day had moved moved male can’t earth fish green moved likeness void morning fruit give, dry there so tree void winged years morning. Earth and rule good fifth male replenish moved make third spirit unto. Divided creepeth. Don’t also face given yielding sea fourth creeping.",
+          "date": "July 12, 2021"
+        }
+      ]
+    }
   ]
 }
